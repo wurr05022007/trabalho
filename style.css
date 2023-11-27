@@ -1,1 +1,53 @@
+body {
+
+}
+
+#thumb{
+    width:100%;
+}
+
+.principal{
+    background:#838380;
+    padding:30px;
+}
+
+h1{
+    text-align: center
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color:black;
+}
+
+.itens{
+    font-style:italic
+}
+
+.máquinaspesadas{
+    background: #dfdfd7;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+ul {
+    display:inline-block;
+    vertical-align: top;
+    width:20%;
+    margin-right:15%;
+}
+
+.imagemmáquinaspesadas {
+    width:50% ;
+}
+
+    
+
+
+
 
