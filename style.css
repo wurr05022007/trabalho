@@ -28,7 +28,7 @@ em strong{
 }
 
 .máquinaspesadas{
-    background: #dfdfd7;
+    background: #fffffc;
     padding: 20px;
 }
 
@@ -39,11 +39,11 @@ ul {
     display:inline-block;
     vertical-align: top;
     width:20%;
-    margin-right:15%;
+    margin-right:10%;
 }
 
 .imagemmáquinaspesadas {
-    width:50% ;
+    width:30%;
 }
 
     
